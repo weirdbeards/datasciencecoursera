@@ -1,2 +1,2 @@
 # datasciencecoursera
-First Repo fotr Coursera
+First Repo for Coursera
